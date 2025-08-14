@@ -8,12 +8,15 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 Step1 : 
 
 Import the numpy library.
+
 Step 2: 
 
 Create the matrix a.
+
 Step 3: 
 
 Using the np.linalg.eig(), we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
+
 Step 4: 
 
 Print the eigenvalues and eigenvectors nicely.
